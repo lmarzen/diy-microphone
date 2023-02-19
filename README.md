@@ -13,4 +13,4 @@ The XLR plug is replaced with a USB C female connector and a 3d printed mount is
   <img src="showcase/mic_open_1.jpg" width="49%" /> 
 </p>
 
-Matt (DIY Perks) has created extensive documentation about this project in the form of a youtube video, https://www.youtube.com/watch?v=LoQu3XXIayc. More information related to his project can be found here, https://diyperks.com/project_31_high-quality-usb-c-microphone/.
+Matt (DIY Perks) has created extensive documentation for the DIY Perks Microphone Project v1 in the form of a youtube video, https://www.youtube.com/watch?v=LoQu3XXIayc. More information related to his project can be found here, https://diyperks.com/project_31_high-quality-usb-c-microphone/.
