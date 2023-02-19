@@ -1,6 +1,6 @@
 # diy-microphone
 
-This project contributes a pcb design that implements the circuit described in the DIY Perks Microphone Project v1, https://www.youtube.com/watch?v=LoQu3XXIayc.
+This project contributes a KiCad PCB design that implements the circuit described in the DIY Perks Microphone Project v1, https://www.youtube.com/watch?v=LoQu3XXIayc.
 
 The PCB is designed to fit the internal form factor of the body of BM-800 XLR microphone. The BM-800 is an inexpensive microphone with a metal housing. The limited interior space of the microphone housing necessitates a dense PCB layout.
 
